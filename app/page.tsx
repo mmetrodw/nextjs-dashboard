@@ -22,7 +22,7 @@ export default function Page() {
             <a href="https://nextjs.org/learn/" className="text-blue-500">
               Next.js Learn Course
             </a>
-            , brought to you by Vercel.sdfsdf
+            , brought to you by Vercel.
           </p>
           <Link
             href="/login"
@@ -37,7 +37,6 @@ export default function Page() {
             src="/hero-desktop.png"
             width={1000}
             height={760}
-            quality={1}
             className="hidden md:block"
             alt="Screenshots of the dashboard project showing desktop version"
           />
